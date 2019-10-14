@@ -1,0 +1,11 @@
+C:\Users\marla\workspace\c#\BobTaborTut\decisions\bin\Debug\netcoreapp3.0\decisions.exe
+C:\Users\marla\workspace\c#\BobTaborTut\decisions\bin\Debug\netcoreapp3.0\decisions.deps.json
+C:\Users\marla\workspace\c#\BobTaborTut\decisions\bin\Debug\netcoreapp3.0\decisions.runtimeconfig.json
+C:\Users\marla\workspace\c#\BobTaborTut\decisions\bin\Debug\netcoreapp3.0\decisions.runtimeconfig.dev.json
+C:\Users\marla\workspace\c#\BobTaborTut\decisions\bin\Debug\netcoreapp3.0\decisions.dll
+C:\Users\marla\workspace\c#\BobTaborTut\decisions\bin\Debug\netcoreapp3.0\decisions.pdb
+C:\Users\marla\workspace\c#\BobTaborTut\decisions\obj\Debug\netcoreapp3.0\decisions.csprojAssemblyReference.cache
+C:\Users\marla\workspace\c#\BobTaborTut\decisions\obj\Debug\netcoreapp3.0\decisions.AssemblyInfoInputs.cache
+C:\Users\marla\workspace\c#\BobTaborTut\decisions\obj\Debug\netcoreapp3.0\decisions.AssemblyInfo.cs
+C:\Users\marla\workspace\c#\BobTaborTut\decisions\obj\Debug\netcoreapp3.0\decisions.dll
+C:\Users\marla\workspace\c#\BobTaborTut\decisions\obj\Debug\netcoreapp3.0\decisions.pdb
